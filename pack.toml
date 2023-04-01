@@ -1,0 +1,13 @@
+name = "Soberana Basics"
+author = "SoberanaCraft"
+version = "1.0.0+1.19.3.quilt"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "538feb7e8751fa3d4563228dd3721506633641156668606051cff7338ba07e08"
+
+[versions]
+minecraft = "1.19.3"
+quilt = "0.18.6"
